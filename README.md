@@ -4,6 +4,10 @@ https://pptr.dev/
 
 にあるチュートリアルをやってみた。
 
+## Getting Started
+
+`npm install`
+
 ## How to use
 
 ### スクリーンショットを撮影
